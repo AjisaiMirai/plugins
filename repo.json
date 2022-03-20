@@ -7,15 +7,13 @@
     "AssemblyVersion": "0.0.0.1",
     "RepoUrl": "https://github.com/AjisaiMirai/Who-emoted-at-me",
     "ApplicableVersion": "any",
-    "Tags": [
-      "ajisai",
-      "emotes",
-      "log"
-    ],
     "DalamudApiLevel": 2,
     "IsHide": "False",
+    "LastUpdate": 0,
+    "DownloadCount": 0, 
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
+    "DowloadLinkTesting": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip"
   }
 ]
