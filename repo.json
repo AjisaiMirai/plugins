@@ -1,0 +1,19 @@
+{
+    "Author": "AjisaiMirai",
+    "Name": "Who emoted at me",
+    "Description": "Always see who has emoted at you.",
+    "InternalName": "WEAMPlugin",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/AjisaiMirai/Who-emoted-at-me",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "ajisai",
+      "emotes",
+      "log"
+    ],
+    "DalamudApiLevel": 2,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip"
+  }
