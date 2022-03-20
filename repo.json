@@ -1,4 +1,5 @@
-{
+[
+    {
     "Author": "AjisaiMirai",
     "Name": "Who emoted at me",
     "Description": "Always see who has emoted at you.",
@@ -17,3 +18,4 @@
     "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip"
   }
+]
