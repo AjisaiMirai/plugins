@@ -5,7 +5,7 @@
     "Description": "Always see who has emoted at you.",
     "InternalName": "WEAMPlugin",
     "AssemblyVersion": "0.0.0.1",
-    "RepoUrl": "https://github.com/AjisaiMirai/Who-emoted-at-me",
+    "RepoUrl": "https://github.com/AjisaiMirai/plugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 2,
     "IsHide": "False",
