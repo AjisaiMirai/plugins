@@ -7,7 +7,7 @@
     "AssemblyVersion": "0.0.0.1",
     "RepoUrl": "https://github.com/AjisaiMirai/plugins",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 2,
+    "DalamudApiLevel": 5,
     "IsHide": "False",
     "LastUpdate": 0,
     "DownloadCount": 0, 
