@@ -14,11 +14,11 @@
         "DalamudApiLevel":2,
         "LoadPriority":0,
         "Punchline":"Always forgetting to start ACT? Let us help you.",
-        "IsHide":"False",
+        "IsHide":false,
         "IconUrl": "",
         "LastUpdate": "0",
         "DownloadCount": 0,
-        "IsTestingExclusive":"False",
+        "IsTestingExclusive":false,
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip"
