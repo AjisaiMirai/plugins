@@ -21,5 +21,26 @@
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip"
+    },
+    {
+        "Author":"Ajisai Mirai",
+        "Name":"Who emoted at me",
+        "InternalName":"WhoEmotedAtMe",
+        "AssemblyVersion":"0.0.1",
+        "RepoUrl":"https://github.com/AjisaiMirai/Who-emoted-at-me",
+        "Description":"Ever AFK and curious if people emoted at you? No longer.",
+        "ApplicableVersion":"any",
+        "Tags":[
+        ],
+        "DalamudApiLevel":5,
+        "Punchline":"Never miss an emote to you ever again!",
+        "IsHide":false,
+        "IconUrl": "",
+        "LastUpdated": "0",
+        "DownloadCount": 0,
+        "IsTestingExclusive":false,
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/Who-emoted-at-me/releases/download/releases/latest.zip",
+        "DownloadLinkTesting":"https://github.com/AjisaiMirai/Who-emoted-at-me/releases/download/releases/latest.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/Who-emoted-at-me/releases/download/releases/latest.zip"
     }
 ]
