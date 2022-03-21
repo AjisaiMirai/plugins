@@ -1,19 +1,42 @@
 [
     {
-    "Author": "AjisaiMirai",
-    "Name": "Who emoted at me",
-    "Description": "Always see who has emoted at you.",
-    "InternalName": "WEAMPlugin",
-    "AssemblyVersion": "0.0.0.1",
-    "RepoUrl": "https://github.com/AjisaiMirai/plugins",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 5,
-    "IsHide": "False",
-    "LastUpdate": 0,
-    "DownloadCount": 0, 
-    "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
-    "DowloadLinkTesting": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip"
-  }
+        "Author":"AjisaiMirai",
+        "Name":"Who emoted at me",
+        "Description":"Always see who has emoted at you.",
+        "InternalName":"WEAMPlugin",
+        "AssemblyVersion":"0.0.0.1",
+        "RepoUrl":"https://github.com/AjisaiMirai/plugins",
+        "ApplicableVersion":"any",
+        "DalamudApiLevel":5,
+        "IsHide":"False",
+        "LastUpdate":0,
+        "DownloadCount":0,
+        "IsTestingExclusive":"False",
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
+        "DowloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip"
+    },
+    {
+        "Author":"AjisaiMirai",
+        "Name":"Auto start ACT",
+        "InternalName":"AutoStartACT",
+        "AssemblyVersion":"0.0.0.1",
+        "RepoUrl":"https://github.com/AjisaiMirai/AutoStartACT",
+        "Description":"Are you forgetfull and forget to start ACT? We got you.",
+        "ApplicableVersion":"any",
+        "Tags":[
+            "plugin",
+            "act"
+        ],
+        "DalamudApiLevel":2,
+        "LoadPriority":0,
+        "Punchline":"Always forgetting to start ACT? Let us help you.",
+        "IsHide":"False",
+        "LastUpdate":0,
+        "DownloadCount":0,
+        "IsTestingExclusive":"False",
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
+        "DowloadLinkTesting":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip"
+    }
 ]
