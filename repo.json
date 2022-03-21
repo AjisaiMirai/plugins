@@ -39,8 +39,8 @@
         "LastUpdated": "0",
         "DownloadCount": 0,
         "IsTestingExclusive":false,
-        "DownloadLinkInstall":"https://github.com/AjisaiMirai/Who-emoted-at-me/releases/download/releases/latest.zip",
-        "DownloadLinkTesting":"https://github.com/AjisaiMirai/Who-emoted-at-me/releases/download/releases/latest.zip",
-        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/Who-emoted-at-me/releases/download/releases/latest.zip"
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
+        "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip"
     }
 ]
