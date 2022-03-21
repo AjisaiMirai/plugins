@@ -11,8 +11,7 @@
             "plugin",
             "act"
         ],
-        "DalamudApiLevel":2,
-        "LoadPriority":0,
+        "DalamudApiLevel":5,
         "Punchline":"Always forgetting to start ACT? Let us help you.",
         "IsHide":false,
         "IconUrl": "",
