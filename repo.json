@@ -20,7 +20,7 @@
         "DownloadCount": 0,
         "IsTestingExclusive":"False",
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
-        "DowloadLinkTesting":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
+        "DownloadLinkTesting":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip"
     }
 ]
