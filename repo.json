@@ -42,5 +42,26 @@
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip"
+    },
+    {
+        "Author":"Ajisai Mirai",
+        "Name":"Misc shit",
+        "InternalName":"MiscPlugin",
+        "AssemblyVersion":"0.0.1",
+        "RepoUrl":"https://github.com/AjisaiMirai/MiscPlugin",
+        "Description":"Misc stuff I made.",
+        "ApplicableVersion":"any",
+        "Tags":[
+        ],
+        "DalamudApiLevel":5,
+        "Punchline":"Misc stuff.",
+        "IsHide":false,
+        "IconUrl": "",
+        "LastUpdated": "0",
+        "DownloadCount": 0,
+        "IsTestingExclusive":false,
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
+        "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
     }
 ]
