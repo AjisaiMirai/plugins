@@ -47,7 +47,7 @@
         "Author":"Ajisai Mirai",
         "Name":"Misc shit",
         "InternalName":"MiscPlugin",
-        "AssemblyVersion":"0.0.4",
+        "AssemblyVersion":"0.0.6",
         "RepoUrl":"https://github.com/AjisaiMirai/MiscPlugin",
         "Description":"Misc stuff I made.",
         "ApplicableVersion":"any",
