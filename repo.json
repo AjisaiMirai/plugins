@@ -4,7 +4,7 @@
         "Name":"Auto start ACT",
         "InternalName":"AutoStartACT",
         "AssemblyVersion":"0.0.1",
-        "RepoUrl":"https://github.com/AjisaiMirai/AutoStartACT",
+        "RepoUrl":"https://github.com/AjisaiMirai/AutoStart",
         "Description":"Are you forgetfull and forget to start ACT? We got you.",
         "ApplicableVersion":"any",
         "Tags":[
