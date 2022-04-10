@@ -26,7 +26,7 @@
         "Author":"Ajisai Mirai",
         "Name":"Who emoted at me",
         "InternalName":"WhoEmotedAtMe",
-        "AssemblyVersion":"0.0.2",
+        "AssemblyVersion":"0.0.3",
         "RepoUrl":"https://github.com/AjisaiMirai/Who-emoted-at-me",
         "Description":"Ever AFK and curious if people emoted at you? No longer.",
         "ApplicableVersion":"any",
@@ -39,9 +39,9 @@
         "LastUpdated": "0",
         "DownloadCount": 0,
         "IsTestingExclusive":false,
-        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
-        "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip",
-        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/latest.zip"
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
+        "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip"
     },
     {
         "Author":"Ajisai Mirai",
