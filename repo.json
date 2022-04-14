@@ -63,5 +63,26 @@
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
+    },
+    {
+        "Author":"ascclemens",
+        "Name":"Globetrotter-Bump",
+        "InternalName":"Globetrotter",
+        "AssemblyVersion":"1.2.5",
+        "RepoUrl":"https://git.annaclemens.io/ascclemens/Globetrotter",
+        "Description":"Automatically shows where treasure maps are located.\n\nIcon: Map by Adrien Coquet from the Noun Project. Forked and bumped my Ajisai.",
+        "ApplicableVersion":"any",
+        "Tags":[
+        ],
+        "DalamudApiLevel":6,
+        "Punchline":"Automatically shows where treasure maps are located.",
+        "IsHide":false,
+        "IconUrl": "",
+        "LastUpdated": "0",
+        "DownloadCount": 0,
+        "IsTestingExclusive":false,
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/Globetrotter.zip",
+        "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/Globetrotter.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/Globetrotter.zip"
     }
 ]
