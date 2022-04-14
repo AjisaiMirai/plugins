@@ -11,7 +11,7 @@
             "plugin",
             "act"
         ],
-        "DalamudApiLevel":5,
+        "DalamudApiLevel":6,
         "Punchline":"Always forgetting to start ACT? Let us help you.",
         "IsHide":false,
         "IconUrl": "",
@@ -32,7 +32,7 @@
         "ApplicableVersion":"any",
         "Tags":[
         ],
-        "DalamudApiLevel":5,
+        "DalamudApiLevel":6,
         "Punchline":"Never miss an emote to you ever again!",
         "IsHide":false,
         "IconUrl": "",
@@ -53,7 +53,7 @@
         "ApplicableVersion":"any",
         "Tags":[
         ],
-        "DalamudApiLevel":5,
+        "DalamudApiLevel":6,
         "Punchline":"Misc stuff.",
         "IsHide":false,
         "IconUrl": "",
