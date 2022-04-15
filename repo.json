@@ -84,5 +84,26 @@
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/Globetrotter.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/Globetrotter.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/Globetrotter.zip"
+    },
+    {
+        "Author":"BlueFissure",
+        "Name":"MapLinker-Bump",
+        "InternalName":"MapLinker",
+        "AssemblyVersion":"1.1.3",
+        "RepoUrl":"https://github.com/Bluefissure/MapLinker",
+        "Description":"Automatically record the maplinks in chat and retrieval later. Forked and bumped my Ajisai.",
+        "ApplicableVersion":"any",
+        "Tags":[
+        ],
+        "DalamudApiLevel":6,
+        "Punchline":"Record the maplinks in chat",
+        "IsHide":false,
+        "IconUrl": "",
+        "LastUpdated": "0",
+        "DownloadCount": 0,
+        "IsTestingExclusive":false,
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MapLinker.zip",
+        "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MapLinker.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MapLinker.zip"
     }
 ]
