@@ -63,27 +63,5 @@
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
-    },
-    {
-        "Author":"Haplo064",
-        "Name":"ChatBubbles",
-        "InternalName":"ChatBubbles",
-        "AssemblyVersion":"1.3.2.3",
-        "RepoUrl":"https://github.com/Haplo064/ChatBubbles",
-        "Description":"Using native chat bubble display, see who is talkinga bout what in a more natural fashion",
-        "ApplicableVersion":"any",
-        "Tags":[
-        ],
-        "DalamudApiLevel":6,
-        "Punchline":"Using native chat bubble display, see who is talkinga bout what in a more natural fashion",
-        "IsHide":false,
-        "IconUrl": "",
-        "LastUpdated": "0",
-        "DownloadCount": 0,
-        "IsTestingExclusive":false,
-        "DownloadLinkInstall":"https://github.com/AjisaiMirai/ChatBubbles/releases/download/release/ChatBubbles.zip",
-        "DownloadLinkTesting":"https://github.com/AjisaiMirai/ChatBubbles/releases/download/release/ChatBubbles.zip",
-        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/ChatBubbles/releases/download/release/ChatBubbles.zip"
-    }
-    
+    }    
 ]
