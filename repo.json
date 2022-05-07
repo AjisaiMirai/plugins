@@ -1,29 +1,6 @@
 [
     {
         "Author":"Ajisai Mirai",
-        "Name":"Auto start ACT",
-        "InternalName":"AutoStartACT",
-        "AssemblyVersion":"0.0.2",
-        "RepoUrl":"https://github.com/AjisaiMirai/AutoStart",
-        "Description":"Are you forgetfull and forget to start ACT? We got you.",
-        "ApplicableVersion":"any",
-        "Tags":[
-            "plugin",
-            "act"
-        ],
-        "DalamudApiLevel":6,
-        "Punchline":"Always forgetting to start ACT? Let us help you.",
-        "IsHide":false,
-        "IconUrl": "",
-        "LastUpdated": "0",
-        "DownloadCount": 0,
-        "IsTestingExclusive":false,
-        "DownloadLinkInstall":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
-        "DownloadLinkTesting":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip",
-        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/AutoStartACT/releases/download/Releases/AutoStartACT.zip"
-    },
-    {
-        "Author":"Ajisai Mirai",
         "Name":"Who emoted at me",
         "InternalName":"WhoEmotedAtMe",
         "AssemblyVersion":"0.0.5",
@@ -63,5 +40,29 @@
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
-    }    
+    },
+    {
+        "Author":"Ajisai Mirai",
+        "Name":"Universalis Watch",
+        "InternalName":"UniversalisWatch",
+        "AssemblyVersion":"0.0.1",
+        "RepoUrl":"https://github.com/AjisaiMirai/UniversalisWatch",
+        "Description":"Periodically scan Universalis for watched items and notify you for price drops or raises.",
+        "ApplicableVersion":"any",
+        "Tags":[
+            "Universalis",
+            "Market",
+            "Marketboard"
+        ],
+        "DalamudApiLevel":6,
+        "Punchline":"Never miss opportunities again.",
+        "IsHide":false,
+        "IconUrl": "",
+        "LastUpdated": "0",
+        "DownloadCount": 0,
+        "IsTestingExclusive":true,
+        "DownloadLinkInstall":"",
+        "DownloadLinkTesting":"",
+        "DownloadLinkUpdate":""
+    } 
 ]
