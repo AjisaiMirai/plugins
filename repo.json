@@ -52,10 +52,12 @@
         "Tags":[
             "Universalis",
             "Market",
-            "Marketboard"
+            "Marketboard",
+            "PublicMarketBoard,
+            "fmauNeko"
         ],
         "DalamudApiLevel":6,
-        "Punchline":"Never miss opportunities again.",
+        "Punchline":"Never miss market opportunities again.",
         "IsHide":false,
         "IconUrl": "",
         "LastUpdated": "0",
