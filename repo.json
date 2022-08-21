@@ -3,7 +3,7 @@
         "Author":"Ajisai Mirai",
         "Name":"Who emoted at me",
         "InternalName":"WhoEmotedAtMe",
-        "AssemblyVersion":"0.2.1",
+        "AssemblyVersion":"0.2.2",
         "RepoUrl":"https://github.com/AjisaiMirai/Who-emoted-at-me",
         "Description":"Ever AFK and curious if people emoted at you? No longer.",
         "ApplicableVersion":"any",
