@@ -13,7 +13,7 @@
         "Punchline":"Never miss an emote to you ever again!",
         "IsHide":false,
         "IconUrl": "",
-        "Changelog": "0.2.1: Added 'ignore self' to overseer. Don't log traffic when we emote to someone we added.\n0.2.0: Fixed minor things. Added 'Overseer'. Add people where you want to log their emote traffic aswell. (Receiving and sending).",
+        "Changelog": "0.2.2: Fixed issue where a log would fire from overseer, if receiver string was empty.(Emote without target).\n0.2.1: Added 'ignore self' to overseer. Don't log traffic when we emote to someone we added.\n0.2.0: Fixed minor things. Added 'Overseer'. Add people where you want to log their emote traffic aswell. (Receiving and sending).",
         "LastUpdated": "0",
         "DownloadCount": 0,
         "IsTestingExclusive":false,
