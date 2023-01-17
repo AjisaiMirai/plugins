@@ -9,4 +9,3 @@ Plugin related to tracking and logging emotes being done to you or others<br/>
 - Track and log emotes being done to you;
 - Track and log emoted being done by character in your stalkee list;
 - Log bee's knees usage, to shame people (chat logs)
-- Keypress [Page_up] on "/pet" being send to you. 
