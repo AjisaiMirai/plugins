@@ -21,7 +21,31 @@
         "DownloadCount": 0,
         "IsTestingExclusive":false,
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
-        "DownloadLinkTesting":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
+    },
+    {
+        "Author": "Mirai",
+        "Name": "Who emoted at me",
+        "InternalName": "WhoEmotedAtMe",
+        "AssemblyVersion": "1.2.0.0",
+        "Description": "Ever been afk and people try to socialize, but you're unsure if they tried to interact? Now! You'll always know if emoted at you! You afking fucking sack of shit.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "plugin",
+            "Emote logging",
+            "afk",
+            "afking",
+            "emotes",
+            "logging",
+            "emote logging"
+        ],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Never lose who has emoted at you when afk.",
+        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
+        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip"
     }
 ]
