@@ -12,7 +12,7 @@
             "anti-afk",
             "emote replacement"
         ],
-        "DalamudApiLevel":10,
+        "DalamudApiLevel":12,
         "Punchline":"Anti afk & doze and sit emote replacer (Runtime hooking)",
         "IsHide":false,
         "IconUrl": "",
