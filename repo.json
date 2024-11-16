@@ -3,7 +3,7 @@
         "Author":"Mirai",
         "Name":"MiscPlugin",
         "InternalName":"MiscPlugin",
-        "AssemblyVersion":"2.0.2",
+        "AssemblyVersion":"2.0.3",
         "RepoUrl":"https://github.com/AjisaiMirai/MiscPlugin",
         "Description":"Just some stuff I wanted in plugin-form really.",
         "ApplicableVersion":"any",
