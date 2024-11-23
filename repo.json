@@ -1,67 +1,67 @@
 [
-    {
-        "Author":"Mirai",
-        "Name":"MiscPlugin",
-        "InternalName":"MiscPlugin",
-        "AssemblyVersion":"2.2.0",
-        "RepoUrl":"https://github.com/AjisaiMirai/MiscPlugin",
-        "Description":"Just some stuff I wanted in plugin-form really.",
-        "ApplicableVersion":"any",
-        "Tags": [
-            "plugin",
-            "anti-afk",
-            "emote replacement"
-        ],
-        "DalamudApiLevel":11,
-        "Punchline":"Anti afk & doze and sit emote replacer (Runtime hooking)",
-        "IsHide":false,
-        "IconUrl": "",
-        "Changelog": "PAtch upodate & fixed sig",
-        "LastUpdated": "0",
-        "DownloadCount": 0,
-        "IsTestingExclusive":false,
-        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
-        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
-    },
-    {
-        "Author": "Mirai",
-        "Name": "Who emoted at me",
-        "InternalName": "WhoEmotedAtMe",
-        "AssemblyVersion": "1.2.0.0",
-        "Description": "Ever been afk and people try to socialize, but you're unsure if they tried to interact? Now! You'll always know if emoted at you! You afking fucking sack of shit.",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "plugin",
-            "Emote logging",
-            "afk",
-            "afking",
-            "emotes",
-            "logging",
-            "emote logging"
-        ],
-        "DalamudApiLevel": 10,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "Never lose who has emoted at you when afk.",
-        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
-        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip"
-    },
-    {
-		"Author": "Mythic Palette",
-		"Name": "Wordsmith",
-		"Punchline": "A roleplay thesaurus and scratch pad.",
-		"Description": "Wordsmith is a text editor with roleplayers in mind. It automatically breaks your text up for easy copy/paste, has advanced features, spellcheck, and even a thesaurus.",
-		"InternalName": "Wordsmith",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": 11,
-		"Tags": [
-			"Social",
-			"Utility"
-		],
-		"IsHide": "False"
-        "DownloadLinkInstall":"https://github.com/AjisaiMirai/plugins/releases/download/Release/Wordsmith.zip",
-        "DownloadLinkUpdate":"https://github.com/AjisaiMirai/plugins/releases/download/Release/Wordsmith.zip"
-    }
+  {
+    "Author": "Mirai",
+    "Name": "MiscPlugin",
+    "InternalName": "MiscPlugin",
+    "AssemblyVersion": "2.2.0",
+    "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
+    "Description": "Just some stuff I wanted in plugin-form really.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin",
+      "anti-afk",
+      "emote replacement"
+    ],
+    "DalamudApiLevel": 11,
+    "Punchline": "Anti afk & doze and sit emote replacer (Runtime hooking)",
+    "IsHide": false,
+    "IconUrl": "",
+    "Changelog": "PAtch upodate & fixed sig",
+    "LastUpdated": "0",
+    "DownloadCount": 0,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
+  },
+  {
+    "Author": "Mirai",
+    "Name": "Who emoted at me",
+    "InternalName": "WhoEmotedAtMe",
+    "AssemblyVersion": "1.2.0.0",
+    "Description": "Ever been afk and people try to socialize, but you're unsure if they tried to interact? Now! You'll always know if emoted at you! You afking fucking sack of shit.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "plugin",
+      "Emote logging",
+      "afk",
+      "afking",
+      "emotes",
+      "logging",
+      "emote logging"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Never lose who has emoted at you when afk.",
+    "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
+    "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip"
+  },
+  {
+    "Author": "Mythic Palette",
+    "Name": "Wordsmith",
+    "Punchline": "A roleplay thesaurus and scratch pad.",
+    "Description": "Wordsmith is a text editor with roleplayers in mind. It automatically breaks your text up for easy copy/paste, has advanced features, spellcheck, and even a thesaurus.",
+    "InternalName": "Wordsmith",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "Tags": [
+      "Social",
+      "Utility"
+    ],
+    "IsHide": "False",
+    "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/Wordsmith.zip",
+    "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/Wordsmith.zip"
+  }
 ]
