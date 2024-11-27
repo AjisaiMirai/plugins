@@ -27,7 +27,7 @@
     "Author": "Mirai",
     "Name": "Who emoted at me",
     "InternalName": "WhoEmotedAtMe",
-    "AssemblyVersion": "1.2.0.0",
+    "AssemblyVersion": "1.2.1",
     "Description": "Ever been afk and people try to socialize, but you're unsure if they tried to interact? Now! You'll always know if emoted at you! You afking fucking sack of shit.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -39,7 +39,7 @@
       "logging",
       "emote logging"
     ],
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
