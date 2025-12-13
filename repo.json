@@ -1,9 +1,9 @@
 [
   {
-    "Author": "Mirai",
+    "Author": "Nyssa",
     "Name": "MiscPlugin",
     "InternalName": "MiscPlugin",
-    "AssemblyVersion": "2.2.0",
+    "AssemblyVersion": "3.0.0",
     "RepoUrl": "https://github.com/AjisaiMirai/MiscPlugin",
     "Description": "Just some stuff I wanted in plugin-form really.",
     "ApplicableVersion": "any",
@@ -12,7 +12,7 @@
       "anti-afk",
       "emote replacement"
     ],
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 13,
     "Punchline": "Anti afk & doze and sit emote replacer (Runtime hooking)",
     "IsHide": false,
     "IconUrl": "",
@@ -22,30 +22,5 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
-  },
-  {
-    "Author": "Mirai",
-    "Name": "Who emoted at me",
-    "InternalName": "WhoEmotedAtMe",
-    "AssemblyVersion": "1.2.1",
-    "Description": "Ever been afk and people try to socialize, but you're unsure if they tried to interact? Now! You'll always know if emoted at you! You afking fucking sack of shit.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "plugin",
-      "Emote logging",
-      "afk",
-      "afking",
-      "emotes",
-      "logging",
-      "emote logging"
-    ],
-    "DalamudApiLevel": 11,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Never lose who has emoted at you when afk.",
-    "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
-    "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip"
   }
 ]
