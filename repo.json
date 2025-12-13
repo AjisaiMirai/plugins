@@ -27,7 +27,7 @@
   "Author": "Nyssa",
   "Name": "Who Emoted At Me",
   "InternalName": "WhoEmotedAtMe",
-  "AssemblyVersion": "1.0.0",
+  "AssemblyVersion": "1.0.1",
   "RepoUrl": "https://github.com/AjisaiMirai/WhoEmotedAtMe",
   "Description": "Tracks who emoted at you and shows configurable on-screen notifications.",
   "ApplicableVersion": "any",
