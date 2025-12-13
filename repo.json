@@ -22,5 +22,31 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/MiscPlugin.zip"
-  }
+  },
+  {
+  "Author": "Nyssa",
+  "Name": "Who Emoted At Me",
+  "InternalName": "WhoEmotedAtMe",
+  "AssemblyVersion": "1.0.0",
+  "RepoUrl": "https://github.com/AjisaiMirai/WhoEmotedAtMe",
+  "Description": "Tracks who emoted at you and shows configurable on-screen notifications.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "emotes",
+    "notifications",
+    "overlay"
+  ],
+  "DalamudApiLevel": 13,
+  "Punchline": "See who emoted at you with customizable toast notifications.",
+  "IsHide": false,
+  "IconUrl": "",
+  "Changelog": "Re-release for Who Emoted At Me.",
+  "LastUpdated": "0",
+  "DownloadCount": 0,
+  "IsTestingExclusive": false,
+  "DownloadLinkInstall": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip",
+  "DownloadLinkUpdate": "https://github.com/AjisaiMirai/plugins/releases/download/Release/WhoEmotedAtMe.zip"
+}
+
 ]
